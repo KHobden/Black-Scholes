@@ -10,4 +10,4 @@ Observing the large range in beta implies a need to understand Fractional Browni
 Next, we follow the Black-Scholes methodology and derive an Option Pricing algorithm which is implemented in Black_Scholes_Option_Pricing.m although the derivation is not yet included.
 Results are shown in black_scholes_option_pricing.txt including the corresponding Greeks.
 
-The repository is currently incomplete but should be completed by February 2020.
+We produce a profit/loss diagram and a plot of the value at different asset prices at expiry and before for a European Long Call Option in European_Call_Option.py
